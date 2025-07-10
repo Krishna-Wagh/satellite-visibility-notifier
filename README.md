@@ -4,7 +4,7 @@ A Python project that tells you when popular satellites like the **ISS**, **Star
 It uses the [N2YO Satellite Tracking API](https://www.n2yo.com/api/) and [OpenCage Geocoding API](https://opencagedata.com/) to fetch real-time satellite pass data and can optionally send the report to your email.
 
 ---
-
+ 
 ## 📸 Sample Output
 
 ```
