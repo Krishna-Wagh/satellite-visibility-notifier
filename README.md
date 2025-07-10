@@ -127,3 +127,6 @@ satellite-visibility-notifier/
 ## 📄 License
 
 This project is licensed under the **MIT License** — free to use, modify, and share.
+
+MIT License  
+© 2025 Krishna Wagh
