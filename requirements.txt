@@ -1,0 +1,7 @@
+
+satellite_notifier/
+├── main.py                  # Main script
+├── n2yo_api.py              # API functions
+├── email_sender.py          # Sends emails
+├── .env                     # For secret API keys
+├── requirements.txt         # Dependencies
